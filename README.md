@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-   <img alt="Coding" width="300px" src="https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif" />
+   <img alt="Coding" width="300px" src="https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif" /> 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vineet-singraul&label=Profile%20views&color=purple&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineet-singraul&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
