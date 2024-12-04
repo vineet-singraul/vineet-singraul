@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineet-singraul&theme=radical" alt="GitHub Streak" />
-</p>
+</p> 
 
 ---
 
