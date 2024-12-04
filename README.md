@@ -41,7 +41,6 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
   <p>
-     <img src="https://your-deployment-url.vercel.app/api?username=vineet-singraul&count_private=true&show_icons=true&theme=radical&hide_title=true&locale=en" alt="GitHub Stats" width="48%" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineet-singraul&theme=radical" alt="GitHub Streak" width="48%" />
   </p>
   <p>
