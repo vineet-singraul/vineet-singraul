@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineet-singraul&theme=radical" alt="GitHub Streak" />
+<img src="https://komarev.com/ghpvc/?username=vineet-singraul&label=Profile%20views&color=purple&style=flat" alt="Profile Views" />
 </p> 
 
 ---
