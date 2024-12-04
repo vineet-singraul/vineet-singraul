@@ -40,12 +40,13 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <p>
+<p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineet-singraul&theme=radical" alt="GitHub Streak" width="48%" />
-  </p>
-  <p>
+</p>
+<p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet-singraul&layout=compact&theme=radical" alt="Top Languages" width="50%" />
-  </p>
+</p>
+
 </div>
 
 ---
