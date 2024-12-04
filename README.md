@@ -10,6 +10,22 @@
 <img src="https://komarev.com/ghpvc/?username=vineet-singraul&label=Profile%20views&color=purple&style=flat" alt="Profile Views" />
 </p> 
 
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineet-singraul&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=vineet-singraul&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet-singraul&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
 ---
 
 ### 💡 About Me
