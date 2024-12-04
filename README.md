@@ -20,7 +20,7 @@
 
 ---
 
-<h3 align="center">🔗 Connect with Me 🔗</h3>
+<h3 align="center">🔗 Connect with Me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/vineet-singraul-107b61316" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -35,7 +35,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats 📊</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=vineet-singraul&count_private=true&show_icons=true&theme=radical&hide_title=true&locale=en" alt="GitHub Stats" width="48%" />
@@ -51,7 +51,7 @@
 ### 🚀 GitHub Activity
 
 - 🌟 Starred repositories: A collection of interesting projects and tools that I find useful.
-- 🔔 Currently contributing to open-source projects and learning new technologies!
+- 🔔 Currently contributing to open-source projects and learning new technologies.
 
 ---
 
