@@ -22,10 +22,6 @@
   🌟 About Me 🌟
 </h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Developer Animation" width="300" />
-</p>
-
 - 🌱 **Currently Learning:** HTML, CSS, JavaScript, and C++.
 - 💻 **Skills I'm Building:** Full-stack development with modern tools and frameworks.
 - 🎯 **Goals:** Building impactful projects and contributing to open-source communities.
@@ -94,10 +90,3 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Let's Connect Animation" width="300" />
 </p>
 
-<style>
-  @keyframes glowing {
-    0% { color: #ffcc33; }
-    50% { color: #ff66cc; }
-    100% { color: #ffcc33; }
-  }
-</style>
