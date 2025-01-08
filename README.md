@@ -2,13 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3500&pause=700&color=FF5733&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Vineet+Singraul;Aspiring+Full-Stack+Developer;Passionate+Web+Developer+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="400" />
-</p>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vineet-singraul&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/vineet-singraul?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Repositories-10+-brightgreen?style=flat-square" alt="Repositories" />
 </p>
 
 ---
@@ -34,6 +35,9 @@
   <a href="https://github.com/vineet-singraul" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="mailto:vineet.singraul@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -43,6 +47,12 @@
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineet-singraul&theme=radical" alt="GitHub Streak" width="48%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet-singraul&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  </p>
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vineet-singraul&theme=radical" alt="Profile Details" width="96%" />
+  </p>
+  <p>
+    <img src="https://activity-graph.herokuapp.com/graph?username=vineet-singraul&bg_color=1e1e2c&color=f97316&line=f97316&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </p>
 </div>
 
@@ -65,6 +75,13 @@
 <h3 align="center">🌍 My Contributions</h3>
 <p align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=vineet-singraul&theme=radical" alt="Contribution Stats" />
+</p>
+
+---
+
+<h3 align="center">🎨 Fun Section</h3>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 
 ---
