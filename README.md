@@ -12,9 +12,13 @@
   <img src="https://img.shields.io/badge/Repositories-10+-brightgreen?style=flat-square" alt="Repositories" />
 </p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=0DBDFF&lines=Welcome+to+my+world!;Coding+%7C+Debugging+%7C+Learning;Stay+Creative+and+Keep+Building!" />
+</div>
+
 ---
 
-<h2 align="center">
+<h2 align="center" style="animation: glowing 2s infinite;">
   🌟 About Me 🌟
 </h2>
 
@@ -89,3 +93,11 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Let's Connect Animation" width="300" />
 </p>
+
+<style>
+  @keyframes glowing {
+    0% { color: #ffcc33; }
+    50% { color: #ff66cc; }
+    100% { color: #ffcc33; }
+  }
+</style>
