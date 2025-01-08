@@ -12,9 +12,19 @@
   <img src="https://img.shields.io/badge/Repositories-10+-brightgreen?style=flat-square" alt="Repositories" />
 </p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=0DBDFF&lines=Welcome+to+my+world!;Coding+%7C+Debugging+%7C+Learning;Stay+Creative+and+Keep+Building!" />
+</div>
+
 ---
 
-### 🌟 **About Me**
+<h2 align="center" style="animation: glowing 2s infinite;">
+  🌟 About Me 🌟
+</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Developer Animation" width="300" />
+</p>
 
 - 🌱 **Currently Learning:** HTML, CSS, JavaScript, and C++.
 - 💻 **Skills I'm Building:** Full-stack development with modern tools and frameworks.
@@ -52,7 +62,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vineet-singraul&theme=radical" alt="Profile Details" width="96%" />
   </p>
   <p>
-    <img src="https://activity-graph.herokuapp.com/graph?username=vineet-singraul&bg_color=1e1e2c&color=f97316&line=f97316&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vineet-singraul&bg_color=1e1e2c&color=f97316&line=f97316&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </p>
 </div>
 
@@ -62,13 +72,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vineet-singraul&theme=radical&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" width="90%" />
 </p>
-
----
-
-<h3 align="center">🚀 GitHub Highlights</h3>
-- 🌟 **Starred Repositories:** A collection of interesting projects and tools I admire.  
-- 🛠️ **Contributions:** Actively contributing to open-source projects to make a difference.  
-- 📚 **Learning:** Exploring cutting-edge technologies to enhance my skillset.
 
 ---
 
@@ -90,3 +93,11 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Let's Connect Animation" width="300" />
 </p>
+
+<style>
+  @keyframes glowing {
+    0% { color: #ffcc33; }
+    50% { color: #ff66cc; }
+    100% { color: #ffcc33; }
+  }
+</style>
