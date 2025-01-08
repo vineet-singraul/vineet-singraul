@@ -2,14 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3500&pause=700&color=FF5733&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Vineet+Singraul;Aspiring+Full-Stack+Developer;Passionate+Web+Developer+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img alt="Coding Animation" width="300px" src="https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="400" />
+</div>
 
 <p align="center">
-  <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=vineet-singraul&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/vineet-singraul?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Repositories-10+-brightgreen?style=flat-square" alt="Repositories" />
 </p>
 
 ---
@@ -17,9 +17,10 @@
 ### 🌟 **About Me**
 
 - 🌱 **Currently Learning:** HTML, CSS, JavaScript, and C++.
-- 🧠 **Skills I'm Passionate About:** Problem-solving, web development, and creating engaging UI/UX.
-- 🎯 **Goals:** To become a proficient Full-Stack Developer and contribute to impactful open-source projects.
-- ⚡ **Fun Fact:** Debugging is like solving a mystery, and I'm the detective! 🕵️‍♂️
+- 💻 **Skills I'm Building:** Full-stack development with modern tools and frameworks.
+- 🎯 **Goals:** Building impactful projects and contributing to open-source communities.
+- 🧠 **Passions:** Problem-solving, creating engaging user interfaces, and optimizing performance.
+- ⚡ **Fun Fact:** Debugging is my superpower – every bug is a mystery waiting to be solved! 🕵️‍♂️
 
 ---
 
@@ -34,6 +35,9 @@
   <a href="https://github.com/vineet-singraul" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="mailto:vineet.singraul@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -47,27 +51,42 @@
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vineet-singraul&theme=radical" alt="Profile Details" width="96%" />
   </p>
+  <p>
+    <img src="https://activity-graph.herokuapp.com/graph?username=vineet-singraul&bg_color=1e1e2c&color=f97316&line=f97316&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  </p>
 </div>
 
 ---
 
-### 🚀 **GitHub Activity**
-
-- 🌟 Exploring repositories and starring innovative projects.
-- 🔧 Actively contributing to open-source initiatives and personal projects.
-- 🚀 Learning new technologies to enhance my skill set.
-
----
-
-### 🌍 **My Contributions**
-
+<h3 align="center">🏆 Achievements</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vineet-singraul&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" width="80%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vineet-singraul&theme=radical&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" width="90%" />
 </p>
 
 ---
 
-<h3 align="center">🚀 Let's Build Something Amazing Together!</h3>
+<h3 align="center">🚀 GitHub Highlights</h3>
+- 🌟 **Starred Repositories:** A collection of interesting projects and tools I admire.  
+- 🛠️ **Contributions:** Actively contributing to open-source projects to make a difference.  
+- 📚 **Learning:** Exploring cutting-edge technologies to enhance my skillset.
+
+---
+
+<h3 align="center">🌍 My Contributions</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Motivational Animation" width="300px" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=vineet-singraul&theme=radical" alt="Contribution Stats" />
+</p>
+
+---
+
+<h3 align="center">🎨 Fun Section</h3>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
+
+---
+
+<h3 align="center">💬 Let's Connect</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Let's Connect Animation" width="300" />
 </p>
