@@ -71,25 +71,32 @@
 
 ---
 
-<h3 align="center">🚀 My Contributions</h3>
+<!-- Contribution Section with Enhanced Design -->
+<div align="center">
+  <h3>🚀 My Contributions</h3>
+  
+  <p>
+    <a href="https://github.com/vineet-singraul">
+      <img src="https://github-contribution-stats.vercel.app/api/?username=vineet-singraul&theme=radical" alt="Contribution Stats" style="border-radius: 10px; box-shadow: 0px 0px 15px rgba(255, 0, 150, 0.7);"/>
+    </a>
+  </p>
 
-<p align="center">
-  <a href="https://github.com/vineet-singraul">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=vineet-singraul&theme=radical" alt="Contribution Stats" />
-  </a>
-</p>
+  <p>
+    <a href="https://github.com/vineet-singraul">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineet-singraul&theme=radical" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0px 0px 15px rgba(255, 140, 0, 0.7);" />
+    </a>
+  </p>
 
-<p align="center">
-  <a href="https://github.com/vineet-singraul">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineet-singraul&theme=radical" alt="GitHub Streak" />
-  </a>
-</p>
+  <p>
+    <a href="https://github.com/vineet-singraul">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vineet-singraul&theme=radical" alt="Profile Summary" style="border-radius: 10px; box-shadow: 0px 0px 15px rgba(0, 255, 150, 0.7);"/>
+    </a>
+  </p>
 
-<p align="center">
-  <a href="https://github.com/vineet-singraul">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vineet-singraul&theme=radical" alt="Profile Summary" />
-  </a>
-</p>
+  <hr style="width: 60%; border: 1px solid #ff00ff; margin: 20px auto;"/>
+  
+  <p>🔥 Keep coding and keep contributing! 🚀</p>
+</div>
 
 
 ---
