@@ -55,7 +55,7 @@
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vineet-singraul&theme=radical" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/vineet-singraul">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet-singraul&layout=compact&theme=radical" alt="Top Languages" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet-singraul&layout=compact&theme=radical" alt="" />
   </a>
 </p>
 
