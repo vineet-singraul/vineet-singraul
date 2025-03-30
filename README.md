@@ -50,31 +50,25 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   
-  <!-- GitHub Streak Stats -->
-  <p>
+  <!-- Streak Stats & Top Languages (Side by Side) -->
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineet-singraul&theme=radical" 
-         alt="Vineet Singraul GitHub Streak Stats"/>
-  </p>
-
-  <!-- Top Languages -->
-  <p>
+         alt="Vineet Singraul GitHub Streak Stats" width="48%" />
+    
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet-singraul&layout=compact&theme=radical" 
          alt="Top Languages" width="48%" />
-  </p>
+  </div>
 
-  <!-- GitHub Profile Summary -->
-  <p>
+  <!-- Profile Summary & Activity Graph (Stacked) -->
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vineet-singraul&theme=radical" 
          alt="Profile Details" width="96%" />
-  </p>
-
-  <!-- GitHub Activity Graph -->
-  <p>
+    
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=vineet-singraul&bg_color=1e1e2c&color=f97316&line=f97316&point=ffffff&area=true&hide_border=true" 
-         alt="GitHub Activity Graph" />
-  </p>
+         alt="GitHub Activity Graph" width="96%" />
+  </div>
 
 </div>
 
