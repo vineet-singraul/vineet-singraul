@@ -49,23 +49,35 @@
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <p>
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vineet-singraul&theme=radical" 
-         alt="Vineet Singraul GitHub Streak Stats"/>
-</p>
 
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet-singraul&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-  </p>
+<div align="center">
+  
+  <!-- GitHub Streak Stats -->
   <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vineet-singraul&theme=radical" alt="Profile Details" width="96%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineet-singraul&theme=radical" 
+         alt="Vineet Singraul GitHub Streak Stats"/>
   </p>
+
+  <!-- Top Languages -->
   <p>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vineet-singraul&bg_color=1e1e2c&color=f97316&line=f97316&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet-singraul&layout=compact&theme=radical" 
+         alt="Top Languages" width="48%" />
   </p>
+
+  <!-- GitHub Profile Summary -->
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vineet-singraul&theme=radical" 
+         alt="Profile Details" width="96%" />
+  </p>
+
+  <!-- GitHub Activity Graph -->
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vineet-singraul&bg_color=1e1e2c&color=f97316&line=f97316&point=ffffff&area=true&hide_border=true" 
+         alt="GitHub Activity Graph" />
+  </p>
+
 </div>
+
 
 ---
 
